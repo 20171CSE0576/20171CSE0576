@@ -6,4 +6,4 @@ void main()
        printf("Welcome Master\n");
 }
 
-//tele
+//telecom communication
