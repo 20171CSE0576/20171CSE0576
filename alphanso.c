@@ -3,7 +3,7 @@
 
 void main()
 {
-       printf("Welcome Shiraz Ahmad\n");
+       printf("Welcome Master\n");
 }
 
 //tele
