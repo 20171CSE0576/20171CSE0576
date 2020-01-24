@@ -4,7 +4,8 @@
 void main()
 {
        printf("Welcome Master\n");
-       printf("Welcome back again!!!");
+       printf("Good Morning !!");
+
 }
 
 //telecom communication
