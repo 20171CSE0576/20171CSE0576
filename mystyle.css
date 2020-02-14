@@ -1,0 +1,23 @@
+
+body
+{
+  background-image:url(hokage.jpeg);
+  background-color:linen;
+  background-size:cover;
+}
+h1
+{
+ color:maroon;
+ margin-left:40px;
+}
+
+p
+{
+  font-family: "Times New Roman";
+  font-style: oblique;
+  margin-left:20px;
+  background-image:linear-gradient(red,yellow,green);
+  font-size:16pt;
+}
+
+
